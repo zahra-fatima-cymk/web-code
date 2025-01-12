@@ -1,0 +1,97 @@
+nav{
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+    list-style: none;
+    height: 100px;
+    width: 100%;
+    background-color:darkmagenta;
+    color:white;
+    border-radius: 10px;
+}
+#nav-right{
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#nav-right h2 li a{
+    color: white;
+}
+.wrapper{
+    height: 300px;
+    width: 100%;
+    background-color:blueviolet;
+    color:white;
+    border-radius: 10px;
+}
+.wrapper h3{
+    color: yellow;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color:brown;
+    color: white;
+    border-radius: 10px;
+}
+.main{
+    color: black;
+    background-color: #fff;
+    text-align: center;
+}
+.learn{
+    background-color:lightblue;
+    height: 150px;
+    width: 60%;
+    border-color: chocolate;
+    border-style: double;
+    margin-left: 300px;
+    color:black;
+    border-radius: 10px;
+    
+}
+.practice{
+    height: 100px;
+    width: 60%;
+    background-color:lightblue;
+    border-color: blue;
+    border-style: double;
+    color: black;
+    margin-left: 300px;
+    border-radius: 10px;
+
+}
+.achieve{
+    height: 100px;
+    width: 60%;
+    background-color:lightblue;
+    color: black;
+    border-radius: 10px;
+    border-color:chartreuse;
+    border-style: double;
+    margin-left: 300px;
+}
+.middlepart{
+    height: 200px;
+    width: 100%;
+    background-color:cadetblue;
+    color: white;
+    border-radius: 15px;
+}
+.last-part{
+    height: 300px;
+    width: 100%;
+    background-color:lightslategray;
+    text-align: center;
+    border-radius: 15px;
+    border-color: black;
+    border-style: double;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
