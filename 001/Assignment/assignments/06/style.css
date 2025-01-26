@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: 3px solid brown;
+}
+html{
+    
+}
+/* <absolute units> */
+h1{
+    background-color:lightblue;
+    color: black;
+    font-size: 3cm;
+}
+#parent{
+    /* background-color:lightsalmon; */
+    width: 20cm;
+    border:2px solid greenyellow;
+}
+h2{
+    background-color:aquamarine;
+    color: black;
+    font-size: 15mm;
+}
+h3{
+    background-color:lightpink;
+    color: black;
+    font-size: 1in;
+}
+h4{
+    background-color:lightgrey;
+    color: black;
+    font-size: 50px;
+}
+h5{
+    background-color:lightslategray;
+    color: black;
+    font-size: 50pt;
+}
+h6{
+    background-color:lemonchiffon;
+    color: black;
+    font-size: 10pc;
+}
+/* <relative units> */
+p1{
+    background-color:darkred;
+    color: white;
+    font-size: 5.2em;
+}
+p2{
+    background-color:darkmagenta;
+    color: white;
+    font-size: 2.4rem;
+}
+p3{
+    background-color:darkblue;
+    color: white;
+    font-size: 5vw;
+}
+p4{
+    background-color:darkolivegreen;
+    color: white;
+    font-size: 3vh;
+}
+.box1{
+    height: 30rem;
+    width: 30rem;
+    background-color: lightpink;
+}
+
+.box2{
+    height: 20rem;
+    width: 20rem;
+    background-color:lightgreen;
+}
+.box3{
+    height: 10rem;
+    width: 10rem;
+    background-color:lightseagreen;
+}

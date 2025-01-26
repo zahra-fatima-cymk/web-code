@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.content{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border: 3px solid gray;
+    border-radius: 4px;
+    background-color:skyblue;
+    text-align: center;
+}
+button{
+    background-color:lightseagreen;
+}
+input{
+    background-color:lightseagreen;
+}
